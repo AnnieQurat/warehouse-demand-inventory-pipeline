@@ -10,6 +10,10 @@ Montgomery County, Maryland: warehouse and retail sales (public open data).
 Source: [https://catalog.data.gov/dataset/warehouse-and-retail-sales]
 The original file is in `data/raw/` and is never edited.
 
+The full file is too large for this repository, so it is not included.
+Download it from the link above and save it as `data/raw/<filename>.csv`.
+A 1,000-row sample is in `data/sample/` for a quick look.
+
 ## Plan
 - 1. First look at the data in Excel 
 - 2. Data-quality checks (missing values, duplicates, odd values)
